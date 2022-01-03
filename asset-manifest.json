@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-search/static/css/main.1845dc22.css",
+    "main.js": "/ra-search/static/js/main.7fae12e5.js",
+    "index.html": "/ra-search/index.html",
+    "main.1845dc22.css.map": "/ra-search/static/css/main.1845dc22.css.map",
+    "main.7fae12e5.js.map": "/ra-search/static/js/main.7fae12e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1845dc22.css",
+    "static/js/main.7fae12e5.js"
+  ]
+}
